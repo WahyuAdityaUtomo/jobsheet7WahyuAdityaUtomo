@@ -31,9 +31,10 @@ public class CobaPercabangan {
             System.out.println("isi variabel a : "+ a);
             System.out.println(" nilai a lebih dari 5");
             
+            }
         }
     }
-}
+
     
     
     
