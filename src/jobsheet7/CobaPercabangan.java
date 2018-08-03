@@ -17,7 +17,7 @@ public class CobaPercabangan {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String identitas = "Krisna Putra Mariyanto / X RPL 5 / 18";
+        String identitas = "Wahyu Aditya Utomo / X RPL 5 / 41";
         System.out.println("Identitas : " + identitas);
         
         Scanner scanner = new Scanner(System.in);
